@@ -1,0 +1,23 @@
+{
+  "title": "Meow",
+  "creator": "J.A.M WebDev",
+  "authors": [{ "name": "J.A.M WebDev", "url": "" }],
+  "manifest": "",
+  "abstract": "",
+  "category": "",
+  "classification": "",
+  "pages": {
+    "home": {
+      "title": "Meow - home",
+      "description": "Aplicación para el aprendizaje de ingles de manera interactiva y divertida."
+    },
+    "stories": {
+      "title": "historias",
+      "description": "Aprende mientras lees cuentos e historias cortas. Selecciona palabras especificas para aprender o reforzar, mientras puedes hacer seguimientos de tus listas de palabras y traducir de manera automática cualquier expresión o palabra desconocida."
+    },
+    "games":{
+      "title": "juegos",
+      "description": "Aprende mientras lees cuentos e historias cortas. Selecciona palabras especificas para aprender o reforzar, mientras puedes hacer seguimientos de tus listas de palabras y traducir de manera automática cualquier expresión o palabra desconocida."
+    }
+  }
+}

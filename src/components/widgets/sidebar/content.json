@@ -1,0 +1,68 @@
+{
+  "name": "sidebar_widget",
+  "title": "sidebar",
+  "fields": {
+    "logo": {
+      "title": "logo",
+      "src": "",
+      "alt": "Logo de Meow"
+    },
+    "games": {
+      "title": "Juegos",
+      "links": [
+        {
+          "name": "Juegos por nivel",
+          "link": "#"
+        },
+        {
+          "name": "Buscar juegos",
+          "link": "#"
+        }
+      ]
+    },
+    "stories": {
+      "title": "Historias",
+      "links": [
+        {
+          "name": "historias por nivel",
+          "link": "#"
+        },
+        {
+          "name": "Buscar historias",
+          "link": "#"
+        }
+      ]
+    },
+    "word_list": {
+      "title": "Lista de palabras",
+      "links": [
+        {
+          "name": "Palabras aprendidas",
+          "link": "#"
+        },
+        {
+          "name": "Palabras por nivel",
+          "link": "#"
+        }
+      ]
+    },
+    "action_card": {
+      "fields": {
+        "button": {
+          "content": "Salir",
+          "href": "./"
+        },
+        "options": [
+          {
+            "name": "configuración",
+            "icon": "settings"
+          },
+          {
+            "name": "Seleccion de tema",
+            "icon": ""
+          }
+        ]
+      }
+    }
+  }
+}

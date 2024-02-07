@@ -1,0 +1,31 @@
+{
+  "name": "userSection",
+  "title": "user_section",
+  "fields": {
+    "title": {},
+    "avatar": {},
+    "description": {},
+    "games": [
+      {
+        "name": "juego1",
+        "href": "/",
+        "description": "lorem ipsum"
+      },
+      {
+        "name": "juego2",
+        "href": "/",
+        "description": "lorem ipsum"
+      },
+      {
+        "name": "juego3",
+        "href": "/",
+        "description": "lorem ipsum"
+      },
+      {
+        "name": "juego4",
+        "href": "/",
+        "description": "lorem ipsum"
+      }
+    ]
+  }
+}

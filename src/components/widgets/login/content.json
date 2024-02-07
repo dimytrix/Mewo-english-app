@@ -1,0 +1,27 @@
+{
+  "name": "login_widget",
+  "title": "login/register",
+  "fields": {
+    "email": {
+      "id": "email",
+      "type": "email",
+      "name": "email",
+      "label": "Email",
+      "placeholder": "usuario@dominio.com"
+    },
+    "password": {
+      "id": "password",
+      "type": "password",
+      "name": "password",
+      "label": "Password",
+      "placeholder": "***********"
+    },
+    "rememberMe": {
+      "id": "rememberMe",
+      "type": "checkbox",
+      "name": "rememberMe",
+      "label": "Mantener sesión activa",
+      "placeholder": "Remember Me"
+    }
+  }
+}
